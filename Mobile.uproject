@@ -17,6 +17,10 @@
 			"SupportedTargetPlatforms": [
 				"IOS"
 			]
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
